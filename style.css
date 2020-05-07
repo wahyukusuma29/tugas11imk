@@ -1,0 +1,75 @@
+body{
+	margin: 0;
+	text-align: center;
+	font-family: "Comic Sans MS"
+}
+
+span{
+	font-size: 20px;
+	display: inline-block;
+}
+h1{
+	margin-top: 0;
+	font-family: 'Sacramento', cursive;
+	font-size: 48px;
+}
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	height: 2px;
+	width: 20%;
+	border-width: 7px;
+	border-color: #d7d1c9;
+}
+.foto{
+	position: absolute;
+	left: 30px;
+	top: 20px;
+}
+.menu{
+	text-align: right;
+}
+.top{
+	text-align: center;
+	background-color: #beebe9;
+	padding-top: 30px;
+	color: #2a7886;
+}
+.middle{
+	color:#2a7886;
+}
+.bottom{
+	background-color: #beebe9;
+	color:#2a7886;
+}
+.riwayat-row{
+	width: 50%;
+	margin: 100px auto;
+	text-align: left;
+	line-height: 2;
+}
+.riw-img{
+	width: 20%;
+	float: left;
+	margin-right: 30px;
+}
+.organisasi-row{
+	width: 50%;
+	margin: 100px auto;
+	text-align: right;
+}
+.org-img{
+	width: 20%;
+	float: right;
+	margin-left: 30px;
+}
+.ahli-row{
+	width: 50%;
+	margin: 100px auto;
+	text-align: left;
+}
+.ahli-img{
+	width: 20%;
+	float: left;
+	margin-right: 30px;
+}

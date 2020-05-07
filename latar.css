@@ -1,0 +1,17 @@
+.background1{
+	background-color: #c7f0db;
+	font-family: "Comic Sans MS";
+	color: #226b80;
+	
+}
+.background2{
+	background-color: #d3f4ff;
+	font-family: "Lucida Console";
+	color: #ffc55c;
+}
+#line{
+	border-style: none;
+	border-top-style: dotted;
+	border-width: 6px;
+	border-color: #d7d1c9;
+}
